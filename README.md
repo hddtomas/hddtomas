@@ -2,7 +2,7 @@
 
 No suelo usar mucho github por temas escolares y falta de ideas, aunque tengo por ahí algunos proyectos que podría subir aquí...
 
-De todas formas, acá un sobre mi resumido:
+De todas formas, acá un sobre mí resumido:
 
 - ⚡ 16 años
 - 🎂 13 de mayo
