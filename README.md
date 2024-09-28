@@ -6,7 +6,7 @@ De todas formas, un sobre mi resumido:
 - ⚡ 16 años
 - 🎂 13 de mayo
 - 💻 Estudiando C++, HTML y Python
-- 🛡️ De vez en cuando programo en C# :>
+- 🛡️ De vez en cuando programo en C# :> (casi nunca jej)
 - ☕ Veo mucho anime en mis tiempos libres... o a veces solo juego algo.
 
 <!--
