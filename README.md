@@ -1,4 +1,10 @@
-- ⚡ 16
+# ¡Hola!
+
+No suelo usar mucho github por temas escolares y falta de ideas, aunque tengo por ahí algunos proyectos que podría subir aquí...
+De todas formas, un sobre mi resumido:
+
+- ⚡ 16 años
+- 🎂 13 de mayo
 - 💻 Estudiando C++, HTML y Python
 - 🛡️ De vez en cuando programo en C# :>
 - ☕ Veo mucho anime en mis tiempos libres... o a veces solo juego algo.
