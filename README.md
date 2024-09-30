@@ -8,7 +8,11 @@ De todas formas, acá un sobre mí resumido:
 - 🎂 13 de mayo
 - 💻 Estudiando C++, HTML y CSS
 - 🛡️ De vez en cuando programo en C# o en Python :> (casi nunca jej)
-- ☕ Veo mucho anime en mis tiempos libres... o a veces solo juego algo. 
+- ☕ Veo mucho anime en mis tiempos libres... o a veces solo juego algo.
+
+Proyectos actuales:
+- [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag)
+
 
 <!--
 **hddtomas/hddtomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
