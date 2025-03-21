@@ -1,17 +1,18 @@
 # ¡Hola!
 
-No suelo usar mucho github por temas escolares y falta de ideas, aunque tengo por ahí algunos proyectos que podría subir aquí...
+No suelo usar mucho GitHub debido a la falta de tiempo, pero de vez en cuando subo mis proyectos acá :)
 
-De todas formas, acá un sobre mí resumido:
+Acá un sobre mí resumido:
 
 - ⚡ 16 años
 - 🎂 13 de mayo
 - 💻 Estudiando C++, HTML y CSS
-- 🛡️ De vez en cuando programo en C# o en Python :> (casi nunca jej)
-- ☕ Veo mucho anime en mis tiempos libres... o a veces solo juego algo.
+- 🛡️ De vez en cuando programo en C# o en Python
 
 Proyectos actuales:
 - [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag)
+- Sacred Wiki Reborn (pendiente)
+- Página de práctica (9z Team)
 
 
 <!--
