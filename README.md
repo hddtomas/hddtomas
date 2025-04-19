@@ -10,9 +10,9 @@ Acá un sobre mí resumido:
 - 🛡️ De vez en cuando programo en C# o en Python
 
 Proyectos actuales:
-- [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag) (Indefinido)
-- Sacred Wiki Reborn (pendiente)
-- Recreación del diseño de Classroom (Frontend)
+- [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag)
+- Sacred Wiki Reborn 
+- [Recreación del diseño de Classroom](https://github.com/hddtomas/classroom-design)
 
 <!--
 **hddtomas/hddtomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
