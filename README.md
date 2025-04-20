@@ -16,5 +16,6 @@
 - [Recreación del diseño de Classroom](https://github.com/hddtomas/classroom-design)
 - Sacred Wiki Reborn 
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,cs,dotnet,visualstudio,vscode)](https://skillicons.dev)
+<div>
+  <p>[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,cs,dotnet,visualstudio,vscode)](https://skillicons.dev)</p>
+</div>
