@@ -14,8 +14,8 @@
 
 - [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag)
 - [Recreación del diseño de Classroom](https://github.com/hddtomas/classroom-design)
-- Sacred Wiki Reborn 
-
+- Sacred Wiki Reborn
+- 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,dotnet,visualstudio,vscode)](https://skillicons.dev")>
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,dotnet,visualstudio,vscode">
 </div>
