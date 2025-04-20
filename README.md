@@ -1,4 +1,4 @@
-# ¡Hola!
+<h1 align="center">¡Hola!</h1>
 
 No suelo usar mucho GitHub debido a la falta de tiempo, pero de vez en cuando subo mis proyectos acá :)
 
