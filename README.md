@@ -11,6 +11,7 @@
 - 🛡️ De vez en cuando programo en C# o en Python
 
 <p align="center">Proyectos actuales:</p>
+
 - [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag)
 - [Recreación del diseño de Classroom](https://github.com/hddtomas/classroom-design)
 - Sacred Wiki Reborn 
