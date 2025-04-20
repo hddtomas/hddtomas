@@ -1,9 +1,9 @@
 <h1 align="center">¡Hola!</h1>
 
-<p align="center">
-No suelo usar mucho GitHub debido a la falta de tiempo, pero de vez en cuando subo mis proyectos acá :)
+<p align="center">No suelo usar mucho GitHub debido a la falta de tiempo, pero de vez en cuando subo mis proyectos acá :)</p>
 
-Acá un sobre mí resumido:
+
+<p align="center">Acá un sobre mí resumido:</p>
 
 - ⚡ 16 años
 - 🎂 13 de mayo
@@ -14,6 +14,6 @@ Proyectos actuales:
 - [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag)
 - [Recreación del diseño de Classroom](https://github.com/hddtomas/classroom-design)
 - Sacred Wiki Reborn 
-</p>
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,cs,dotnet,visualstudio,vscode)](https://skillicons.dev)
