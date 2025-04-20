@@ -17,4 +17,4 @@
 - Sacred Wiki Reborn 
 
 
-<div align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,cs,dotnet,visualstudio,vscode)](https://skillicons.dev)</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,cpp,cs,dotnet,visualstudio,vscode)](https://skillicons.dev)
