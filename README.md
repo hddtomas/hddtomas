@@ -4,6 +4,7 @@
 <br />
 
 <h2 align="center">Sobre mí:</h2>
+<br />
 
 - ⚡ 16 años
 - 🎂 13 de mayo
@@ -11,12 +12,13 @@
 - 🛡️ De vez en cuando programo en C# o en Python
 
 <h2 align="center">Proyectos actuales:</h2>
+<br />
 
 - [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag)
 - [Recreación del diseño de Classroom](https://github.com/hddtomas/classroom-design)
 - Sacred Wiki Reborn
 
-
+<br />
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,dotnet,visualstudio,vscode">
 </div>
