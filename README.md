@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola!</h1>
 
 <p align="center">No suelo usar mucho GitHub debido a la falta de tiempo, pero de vez en cuando subo mis proyectos acá :)</p>
-<br>
+<br />
 
 <h2 align="center">Sobre mí:</h2>
 
