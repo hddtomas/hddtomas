@@ -4,6 +4,7 @@
 <br />
 
 <h2 align="center">Sobre mí:</h2>
+
 <br />
 
 - ⚡ 16 años
@@ -11,6 +12,7 @@
 - 💻 Estudiante (6° Año de Secundaria)
 
 <h2 align="center">Proyectos actuales:</h2>
+
 <br />
 
 - [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag)
