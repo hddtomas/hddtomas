@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola!</h1>
 
-<p align="center">No suelo usar mucho GitHub debido a la falta de tiempo, pero de vez en cuando subo mis proyectos acá :)</p>
+<p align="center">No uso tanto GitHub porque no tengo mucho tiempo para hacer mis proyectos personales, aunque de vez en cuando subo mis proyectos acá :3)</p>
 <br />
 
 <h2 align="center">Sobre mí:</h2>
@@ -8,8 +8,7 @@
 
 - ⚡ 16 años
 - 🎂 13 de mayo
-- 💻 Estudiando C++, HTML y CSS
-- 🛡️ De vez en cuando programo en C# o en Python
+- 💻 Estudiante (6° Año de Secundaria)
 
 <h2 align="center">Proyectos actuales:</h2>
 <br />
