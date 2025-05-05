@@ -15,9 +15,10 @@
 
 <br />
 
-- [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag)
-- [Recreación del diseño de Classroom](https://github.com/hddtomas/classroom-design)
-- Sacred Wiki Reborn
+- [Galería de Imágenes](https://github.com/hddtomas/galeria-img) - **HTML, CSS & PHP**
+- [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag) - **HTML & CSS**
+- [Recreación del diseño de Classroom](https://github.com/hddtomas/classroom-design) - **HTML & CSS**
+- [Sacred Lite](https://github.com/hddtomas/sacredlite) - **C++**
 
 <br />
 <br />
