@@ -4,7 +4,6 @@
 
 <h2 align="center">Sobre mí:</h2>
 
-<br />
 
 - ⚡ 16 años
 - 🎂 13 de mayo
@@ -12,7 +11,6 @@
 
 <h2 align="center">Proyectos actuales:</h2>
 
-<br />
 
 - [Galería de Imágenes](https://github.com/hddtomas/galeria-img) - **HTML, CSS & PHP**
 - [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag) - **HTML & CSS**
