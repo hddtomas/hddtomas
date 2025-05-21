@@ -12,7 +12,7 @@
 <h2 align="center">Proyectos actuales:</h2>
 
 
-- [Galería de Imágenes Extendida]([https://github.com/hddtomas/galeria-img](https://github.com/hddtomas/galeria-img-extendida)) - **HTML, CSS & PHP**
+- [Galería de Imágenes Extendida](https://github.com/hddtomas/galeria-img-extendida) - **HTML, CSS & PHP**
 - [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag) - **HTML & CSS**
 - [Recreación del diseño de Classroom](https://github.com/hddtomas/classroom-design) - **HTML & CSS**
 - [Sacred Lite](https://github.com/hddtomas/sacredlite) - **C++**
