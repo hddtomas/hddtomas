@@ -14,7 +14,6 @@
 
 - [Galería de Imágenes Extendida](https://github.com/hddtomas/galeria-img-extendida) - **HTML, CSS & PHP**
 - [Página de PiX Pang](https://github.com/hddtomas/pixpang_pag) - **HTML & CSS**
-- [Recreación del diseño de Classroom](https://github.com/hddtomas/classroom-design) - **HTML & CSS**
 - [Sacred Lite](https://github.com/hddtomas/sacredlite) - **C++**
 
 <br />
