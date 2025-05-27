@@ -19,5 +19,5 @@
 <br />
 <br />
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,dotnet,visualstudio,vscode,php">
+  <img src="https://skillicons.dev/icons?i=html,css,cpp,cs,dotnet,visualstudio,vscode,php,js">
 </div>
