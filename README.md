@@ -5,7 +5,7 @@
 <h2 align="center">Sobre mí:</h2>
 
 
-- ⚡ 16 años
+- ⚡ 17 años
 - 🎂 13 de mayo
 - 💻 Estudiante (6° Año de Secundaria)
 
