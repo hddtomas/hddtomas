@@ -1,13 +1,13 @@
 <h1 align="center">¡Hola!</h1>
 
-<p align="center">No uso tanto GitHub porque no tengo mucho tiempo para hacer mis proyectos personales, aunque de vez en cuando subo mis proyectos acá :3</p>
+<p align="center">No uso tanto GitHub porque no tengo mucho tiempo para hacer mis proyectos personales, aunque de vez en cuando subo mis proyectos acá.</p>
 
 <h2 align="center">Sobre mí:</h2>
 
 
 - ⚡ 17 años
 - 🎂 13 de mayo
-- 💻 Estudiante (6° Año de Secundaria)
+- 💻 Estudiante (Tecnicatura en Programación)
 
 <h2 align="center">Proyectos actuales:</h2>
 
